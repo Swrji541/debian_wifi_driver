@@ -1,4 +1,6 @@
-#This wifi driver work perfectly on my machine i.e. kali os 
+#This wifi driver installer already available in https://github.com/mehedihshakeel/BroadcomInstaller2017.git
+#I will strongly reccommned you please clone it from official site see below ... line 14
+#This wifi driver work perfectly on debian base os i.e. kali os, ubuntu, etc 
 # BroadcomInstaller2017
 Automated Shell Script Install WiFi  Driver ( Broadcom ) in Kali Linux 2017.1 
 Made By SSTec Tutorials
